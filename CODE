@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roger Martí Perales - Página Personal</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #007BFF;
+        }
+        footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Roger Martí Perales</h1>
+        <p>Educador, Mentor educativo y Gestor de proyectos</p>
+    </header>
+    <div class="container">
+        <div class="section" id="about">
+            <h2>Acerca de mí</h2>
+            <p>Creo en la equidad, en la justicia y en la igualdad de oportunidades. Convencido de que todas las personas tenemos un potencial esperando a ser revelado. Muchas veces solo se necesita una oportunidad para que este florezca, si tenemos la guía y el entorno adecuado.</p>
+            <p>Mi trabajo y mi pasión es la de acompañar a personas, especialmente a jóvenes y adolescentes, para que estos conecten consigo mismos, pudiendo encontrar la fuerza así para alcanzar sus sueños y objetivos. Me gusta pensar que contribuyo en la creación de una ciudadanía activa y global de pensamiento crítico.</p>
+            <p>Me considero un perfil enérgico y motivador.</p>
+        </div>
+        <div class="section" id="experience">
+            <h2>Experiencia</h2>
+            <p>Experiencia en diferentes ámbitos dentro del mundo Social en trabajos como Educador, Mentor educativo y como gestor de proyectos.</p>
+        </div>
+        <div class="section" id="projects">
+            <h2>Proyectos</h2>
+            <p>Describa aquí algunos de los proyectos en los que ha trabajado.</p>
+        </div>
+        <div class="section" id="skills">
+            <h2>Habilidades</h2>
+            <p>Describa aquí sus habilidades y competencias.</p>
+        </div>
+        <div class="section" id="contact">
+            <h2>Contacto</h2>
+            <p>Para más información o para ponerse en contacto, envíe un correo a <a href="mailto:roger@example.com">roger@example.com</a>.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Roger Martí Perales</p>
+    </footer>
+</body>
+</html>
